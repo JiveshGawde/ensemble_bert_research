@@ -1,0 +1,9 @@
+# Model / ensemble folders
+bert_tiny_ensemble_member_1/
+bert_tiny_ensemble_member_2/
+bert_tiny_ensemble_member_3/
+bert_tiny_results/
+processed_data/
+
+# All CSV files
+*.csv
